@@ -57,6 +57,8 @@ todo-app/
 
 ---
 
+### 🚀 [Live Demo] (https://piratekingh.github.io/-To-Do-List-Web-App/) 🌐
+
 
 ## 🛠 Tools Used
 
@@ -73,7 +75,6 @@ Free to use for educational and learning purposes.
 ---
 
 ## 👨‍💻 Author
-**Himanshu Dwivedi**
 
 **Himanshu Dwivedi**
 
